@@ -1,0 +1,2 @@
+if(college == iitr)
+Rishi Ranjan = Ranjha Rishi;
